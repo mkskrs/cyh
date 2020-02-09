@@ -536,6 +536,9 @@ h6,
     padding-right: 0;
     padding-left: 0;
   }
+  .paint > .row > .col-12 > a > img{
+    max-width:100%;
+  }
 }
 
 
